@@ -10,7 +10,7 @@ liveness) properties of state transition systems, with a focus on
 distributed protocols.
 
 Veil is embedded in the [Lean 4 proof assistant](https://lean-lang.org/) and provides push-button
-verification for transition systems and their properties expressed
+verification for transition systems and their properties expressed in
 decidable fragments of first-order logic, with the full power of a
 modern higher-order proof assistant for when automation falls short.
 
